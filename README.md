@@ -6,7 +6,7 @@
 
 # Fonctionnalité
 + **Pemet de crée un compte**
-+ **Permet de se déconnecter **
++ **Permet de se déconnecter**
 + **Gestion des comptes**
 + **Gestion de l'utilisateur**
 + **Ajout de livre**
